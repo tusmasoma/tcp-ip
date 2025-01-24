@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/tusmasoma/tcp-ip/network"
+	"github.com/tusmasoma/tcp-ip/pkg/network"
 )
 
 func main() {
